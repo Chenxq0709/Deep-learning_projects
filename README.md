@@ -1,1 +1,1 @@
-#  Projects for the course "Introduction to deep learning" in the University of Houston, 2018FALL.
+#  Projects for the course "Introduction to deep learning" in the University of Houston, 2019Spring.
