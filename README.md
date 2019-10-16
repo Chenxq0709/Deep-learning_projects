@@ -1,1 +1,1 @@
-#  Projects for the course "Introduction to deep learning" in the University of Houston, 2019Spring.
+#  Projects for Dr. AZENCOTT's course "Machine Learning & Data Mining" in the University of Houston, 2019Spring.
